@@ -13,9 +13,9 @@
 
 解釋： $ 變數 = {物件名稱呼叫變數}
 
-➜   Desktop name=foo
+➜   指令執行環境 name=foo
   
-➜  Desktop echo ${name}
+➜ 指令執行環境 echo ${name}
 
 foo
 
