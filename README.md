@@ -23,6 +23,9 @@ foo
 
 ➜  指令執行環境 echo $-
 
+himBH
+https://chainsawonatireswing.com/2012/02/02/find-out-what-your-unix-shells-flags-are-then-change-them/?from=@
+
 
 ➜  指令執行環境 echo $-
 
