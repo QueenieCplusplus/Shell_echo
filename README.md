@@ -13,7 +13,8 @@
 
 解釋： $ 變數 = {物件名稱呼叫變數}
 
-  Desktop name=foo
+➜   Desktop name=foo
+  
 ➜  Desktop echo ${name}
 foo
-➜  Desktop 
+
