@@ -19,3 +19,11 @@
 
 foo
 
+# Shell Flag
+
+➜  指令執行環境 echo $-
+
+
+➜  指令執行環境 echo $-
+569JNRXZghiklms
+
