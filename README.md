@@ -1,6 +1,14 @@
 # Shell_echo
 一些變化球
 
+# var = val, execute $var
+
+➜  指令執行環境 1=2  
+
+➜  指令執行環境 echo $1
+
+2
+
 
 # $()
 
@@ -13,7 +21,7 @@
 
 解釋： $ 變數 = {物件名稱呼叫變數}
 
-➜   指令執行環境 name=foo
+➜ 指令執行環境 name=foo
   
 ➜ 指令執行環境 echo ${name}
 
