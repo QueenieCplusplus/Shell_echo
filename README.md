@@ -16,5 +16,6 @@
 ➜   Desktop name=foo
   
 ➜  Desktop echo ${name}
+
 foo
 
