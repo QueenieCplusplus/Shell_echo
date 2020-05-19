@@ -25,5 +25,6 @@ foo
 
 
 ➜  指令執行環境 echo $-
+
 569JNRXZghiklms
 
