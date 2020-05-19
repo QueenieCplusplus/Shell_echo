@@ -19,7 +19,9 @@
 
 foo
 
-# Shell Flag
+# echo $-
+
+Shell Flag
 
 ➜  指令執行環境 echo $-
 
