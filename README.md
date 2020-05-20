@@ -65,6 +65,8 @@ command substitution
 
 也可以等同於 $() =  ` `
 
+加強版本為 $(()) 或是 $[[]]
+
     echo $(date)
     2020年 5月19日 週二 19時33分42秒 CST
 
@@ -87,6 +89,8 @@ foo
 to matche the test pattern
 
 也可以等同於 $[  ] = [  ]
+
+加強版本為 $(()) 或是 $[[]]
 
 # echo $-
 
