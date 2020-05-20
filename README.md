@@ -19,6 +19,13 @@ Various type of transformation can be done by using this command, such as search
 
 * printf
 
+# echo $$
+
+Show PID
+
+    echo $$
+    1264
+
 # var = val, execute $var
 
 ➜  指令執行環境 1=2  
