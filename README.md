@@ -106,5 +106,17 @@ https://chainsawonatireswing.com/2012/02/02/find-out-what-your-unix-shells-flags
 
 569JNRXZghiklms
 
+# so on...
+
+~ 位置求反
+
+＆ 和
+
+｜ 或
+
+＆＆ 邏輯和
+
+｜｜ 邏輯或
+
 
 
