@@ -122,5 +122,9 @@ https://chainsawonatireswing.com/2012/02/02/find-out-what-your-unix-shells-flags
 
 < < 左位移
 
+# Ref Doc
+
+https://swcarpentry.github.io/shell-novice/reference/
+
 
 
