@@ -5,10 +5,10 @@
 
     $0	Current Working Script Doc Name.
     $n	Param Number to pass thru the function. $1 means Arg1, $2 means Arg2...and so on.
-    $#	The Arg Arregate Number passing thru function or Scripts.
+    $#	int type. The Arg Arregate Number passing thru function or Scripts.
     $*	All The Params passing thru function or Scripts.
     $@	All The Params passing thru function or Scripts. (there are also usage of escaping tool within different meaning.)
-    $?	retrun value or status of above function.
+    $? int type. retrun value or status of above function.
 
 # Alternative Cmd
 
