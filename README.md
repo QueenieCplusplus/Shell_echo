@@ -9,6 +9,14 @@
 
 2
 
+# echo -n
+
+解釋：讓訊息輸出時不自動換行。
+
+    ✗ echo -n 'I luv Poupou, '; echo 'who is the most wondeful companion in the world.'
+
+    I luv Poupou, who is the most wondeful companion in the world.
+
 
 # $()
 
