@@ -9,10 +9,13 @@
 
 AWK is a programming language that is designed for processing text-based data, either in files or data streams, or using shell pipes. In other words you can combine awk with shell scripts or directly use at a shell prompt.
 
-* printf
-
 * tr
 
+tr is a very useful UNIX command. It is used to transform string or delete characters from the string. 
+
+Various type of transformation can be done by using this command, such as searching and replacing text, transforming string from uppercase to lowercase or vice versa, removing repeated characters from the string etc.
+
+* printf
 
 # var = val, execute $var
 
