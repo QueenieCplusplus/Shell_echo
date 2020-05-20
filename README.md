@@ -9,6 +9,8 @@
 
 AWK is a programming language that is designed for processing text-based data, either in files or data streams, or using shell pipes. In other words you can combine awk with shell scripts or directly use at a shell prompt.
 
+However it cosumes the resource a lot. 
+
 * tr
 
 tr is a very useful UNIX command. It is used to transform string or delete characters from the string. 
