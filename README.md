@@ -118,5 +118,9 @@ https://chainsawonatireswing.com/2012/02/02/find-out-what-your-unix-shells-flags
 
 ｜｜ 邏輯或
 
+> > 右位移
+
+< < 左位移
+
 
 
