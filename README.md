@@ -59,6 +59,8 @@ Show PID
 
 # $()
 
+command substitution
+
 解釋： $ 變數 = 方法名（ ）
 
 也可以等同於 $() =  ` `
@@ -67,6 +69,8 @@ Show PID
     2020年 5月19日 週二 19時33分42秒 CST
 
 # ${}
+
+variable within range
 
 解釋： $ 變數 = {物件名稱呼叫變數}
 
