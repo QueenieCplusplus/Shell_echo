@@ -82,6 +82,12 @@ variable within range
 
 foo
 
+# []
+
+to matche the test pattern
+
+也可以等同於 $[  ] = [  ]
+
 # echo $-
 
 Shell Flag
