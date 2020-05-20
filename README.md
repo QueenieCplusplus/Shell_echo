@@ -1,6 +1,17 @@
 # Shell_echo
 一些變化球
 
+# Alternative Cmd
+
+解決一個問題有很多方法，例如 awk、prinf、tr。
+
+* awk 
+
+* printf
+
+* tr
+
+
 # var = val, execute $var
 
 ➜  指令執行環境 1=2  
