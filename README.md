@@ -8,7 +8,7 @@
     $#	int type. The Arg Arregate Number passing thru function or Scripts.
     $*	All The Params passing thru function or Scripts.
     $@	All The Params passing thru function or Scripts. (there are also usage of escaping tool within different meaning.)
-    $? int type. retrun value or status of above function.
+    $?  int type. retrun value or status of above function.
 
 # Alternative Cmd
 
