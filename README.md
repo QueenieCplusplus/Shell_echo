@@ -7,6 +7,8 @@
 
 * awk 
 
+AWK is a programming language that is designed for processing text-based data, either in files or data streams, or using shell pipes. In other words you can combine awk with shell scripts or directly use at a shell prompt.
+
 * printf
 
 * tr
