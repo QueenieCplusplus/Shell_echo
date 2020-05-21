@@ -17,7 +17,7 @@
 
 # Alternative Cmd
 
-解決一個問題有很多方法，例如 awk、prinf、tr。
+解決一個問題有很多方法，例如 awk、prinf、tr、 > or >>。
 
 * awk 
 
@@ -32,6 +32,14 @@ tr is a very useful UNIX command. It is used to transform string or delete chara
 Various type of transformation can be done by using this command, such as searching and replacing text, transforming string from uppercase to lowercase or vice versa, removing repeated characters from the string etc.
 
 * printf
+
+* > 
+
+overwrite the content body in target file.
+
+* >>
+
+to add on after the content body in target file.
 
 # echo $$
 
