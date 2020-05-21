@@ -33,11 +33,11 @@ Various type of transformation can be done by using this command, such as search
 
 * printf
 
-* > 
+*  > 
 
 overwrite the content body in target file.
 
-* >>
+*  >>
 
 to add on after the content body in target file.
 
