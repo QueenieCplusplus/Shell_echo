@@ -121,6 +121,8 @@ https://chainsawonatireswing.com/2012/02/02/find-out-what-your-unix-shells-flags
 
 # so on...
 
+/ 跳脫字元
+
 ~ 位置求反
 
 ＆ 和
