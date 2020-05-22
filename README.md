@@ -35,9 +35,11 @@ Various type of transformation can be done by using this command, such as search
 
 # > & >>
 
-> 
+> 也等同於 1>
 
 overwrite the content body in target file.
+1 代表標準輸出 ; 如果是 2 則是標準錯誤輸出 ; & 則是標準輸出和標準錯誤輸出一起。 
+
 
 >>
 
