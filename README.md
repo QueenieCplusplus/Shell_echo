@@ -19,6 +19,8 @@
 
 解決一個問題有很多方法，例如 awk、prinf、tr、 > or >>。
 
+http://dannysun-unknown.blogspot.com/2016/11/shell-script-awk-sed.html
+
 * awk 
 
 AWK is a programming language that is designed for processing text-based data, either in files or data streams, or using shell pipes. In other words you can combine awk with shell scripts or directly use at a shell prompt.
